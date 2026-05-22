@@ -27,3 +27,16 @@
 - [ ] 支持对图片提问（例如“图里有几个人？”）
 - [ ] 支持批量处理文件夹
 - [ ] 打包成可执行文件
+## 新功能（Day2）
+
+### 对图片提问
+`python ask.py test.jpg --question "图里有几个人？"`
+
+### 批量处理文件夹
+`python batch.py test_images --output results.json`
+可加 `--question` 统一提问。
+
+### 项目结构
+- `describe.py`：基础图片描述
+- `ask.py`：支持提问
+- `batch.py`：批量处理并导出 JSON

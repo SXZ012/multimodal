@@ -1,0 +1,14 @@
+[
+  {
+    "file": "test_images/49c5fbc2fae20c357b4f7371e3ee7259.jpg",
+    "question": "这张图片是否包含人？",
+    "answer": "是的，图片中包含人。在图片的右上角可以看到一个人的手臂和拿着的筷子，这个人可能正在享用火锅。",
+    "status": "success"
+  },
+  {
+    "file": "test_images/79e01d412b182d3b33841aeb56916f11.jpg",
+    "question": "这张图片是否包含人？",
+    "answer": "这张图片中不包含人，主要展示了一碗蔬菜和肉类的沙拉。",
+    "status": "success"
+  }
+]
